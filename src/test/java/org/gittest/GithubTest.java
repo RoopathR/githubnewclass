@@ -37,4 +37,16 @@ public class GithubTest {
 		// TODO Auto-generated method stub
 System.out.println("python");
 	}
+	public void apple() {
+		System.out.println("apple");
+
+	}
+	public void orange() {
+		System.out.println("orange");
+
+	}
+	public void mango() {
+		System.out.println("mango");
+
+	}
 }
