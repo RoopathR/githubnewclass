@@ -43,4 +43,17 @@ System.out.println("python");
 	public void sunflower() {
 		System.out.println("sunflower");
 	}
+	public void apple() {
+		System.out.println("apple");
+
+	}
+	public void orange() {
+		System.out.println("orange");
+
+	}
+	public void mango() {
+		System.out.println("mango");
+
+
+	}
 }
