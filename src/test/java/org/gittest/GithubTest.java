@@ -37,4 +37,10 @@ public class GithubTest {
 		// TODO Auto-generated method stub
 System.out.println("python");
 	}
+	public void rose() {
+		System.out.println("rose");
+	}
+	public void sunflower() {
+		System.out.println("sunflower");
+	}
 }
