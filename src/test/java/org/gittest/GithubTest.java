@@ -21,4 +21,20 @@ public class GithubTest {
 	public void test5() {
 		System.out.println("5");
 	}
+	public void india() {
+		System.out.println("india");
+
+	}
+	public void usa() {
+		System.out.println("usa");
+
+	}
+	public void china() {
+		System.out.println("china");
+
+	}
+	public void python() {
+		// TODO Auto-generated method stub
+System.out.println("python");
+	}
 }
